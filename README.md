@@ -69,11 +69,11 @@ Edit `references/branding.md` with your own brand colors, typography, and docume
 Prompt:
 
 ```
-Iterate on a winning Meta ad in my Kass Care ad account.
+Iterate on a winning Meta ad in my [brand] ad account.
 Focus on Instagram Reels placement.
 ```
 
-Output: Preflight Check confirmed Meta Ads MCP connected, 47 ad accounts surfaced grouped by business, Kass Care PreP selected. Pulled last 30 days at ad level filtered to sales-objective campaigns (64 ads). Derived benchmarks: top-quartile median CTR 2.29%, CPC ₹36, CPA ₹1,302. Candidate winner identified (₹1,302 CPA, 12× spend gate). 4-Filter Gate: Pass / Pass / Fatigue Warning / Inconclusive. DNA diagnosed — Founder Video format is the driver (3 of top 4 winners). 10 Reels-specific iterations generated (3 safe + 4 medium + 3 experimental), each with full production spec. 3-wave testing roadmap with budget thresholds anchored to derived benchmarks. Decision framework included.
+Output: Preflight Check confirms Meta Ads MCP is connected, surfaces the user's ad accounts grouped by business, lets them pick the target account. Pulls last 30 days at ad level filtered to sales-objective campaigns. Derives account-specific benchmarks (top-quartile median CTR / CPM / CPC / CPA / hook rate / hold rate) from the account's own data. Identifies the candidate winner, runs it through the 4-Filter Validation Gate (Spend / Signal / Stability / Scale) and surfaces a verdict (Pass / Pass with caveat / Fatigue Warning / Inconclusive). Diagnoses the winning DNA across 7 components and calls out which elements are likely driving performance. Generates 10 Reels-specific iterations (3 safe + 4 medium + 3 experimental), each with a full production spec (hook, shot list, on-screen text overlays, music direction, end card). 3-wave testing roadmap with budget thresholds anchored to the derived benchmarks. Decision framework included — every test outcome teaches you something specific about your audience and pre-commits the next test.
 
 ## Who this is for
 
